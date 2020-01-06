@@ -1,0 +1,99 @@
+BCSymbolMap Version: 2.0
+-[CategoriesVC viewDidLoad]
+-[CategoriesVC viewWillAppear:]
+-[CategoriesVC addition:]
+-[CategoriesVC subtraction:]
+-[CategoriesVC multiplication:]
+-[CategoriesVC division:]
+-[CategoriesVC mix:]
+_OBJC_CLASS_$_CategoriesVC
+_OBJC_METACLASS_$_CategoriesVC
+Apple LLVM version 10.0.0 (clang-1000.11.45.5)
+/Users/Macbook/Desktop/60 Dollars Apps/MathQuiz/MathQuiz/CategoriesVC.m
+/Users/Macbook/Desktop/60 Dollars Apps/MathQuiz
+-[ViewController viewDidLoad]
+-[ViewController viewWillAppear:]
+-[ViewController startButton:]
+_OBJC_CLASS_$_ViewController
+_OBJC_METACLASS_$_ViewController
+/Users/Macbook/Desktop/60 Dollars Apps/MathQuiz/MathQuiz/ViewController.m
+_OBJC_CLASS_$_AppDelegate
+/Users/Macbook/Desktop/60 Dollars Apps/MathQuiz/MathQuiz/main.m
+main
+-[QuizVC viewDidLoad]
+-[QuizVC b1:]
+-[QuizVC b2:]
+-[QuizVC b3:]
+-[QuizVC b4:]
+-[QuizVC setFirstScreen]
+-[QuizVC setScreen]
+-[QuizVC disableButtons]
+-[QuizVC enableButtons]
+-[QuizVC setAdditionQuesitions]
+-[QuizVC setSubtractionQuesitions]
+-[QuizVC setMultiplicationQuesitions]
+-[QuizVC setDivisionQuesitions]
+-[QuizVC setMixQuesitions]
+-[QuizVC timerLabel:]
+-[QuizVC menuButton:]
+-[QuizVC score]
+-[QuizVC setScore:]
+-[QuizVC questionCount]
+-[QuizVC setQuestionCount:]
+-[QuizVC question]
+-[QuizVC setQuestion:]
+-[QuizVC b1]
+-[QuizVC setB1:]
+-[QuizVC b2]
+-[QuizVC setB2:]
+-[QuizVC b3]
+-[QuizVC setB3:]
+-[QuizVC b4]
+-[QuizVC setB4:]
+-[QuizVC timeLeft]
+-[QuizVC setTimeLeft:]
+-[QuizVC type]
+-[QuizVC setType:]
+-[QuizVC resultView]
+-[QuizVC setResultView:]
+-[QuizVC resultScoreLabel]
+-[QuizVC setResultScoreLabel:]
+-[QuizVC .cxx_destruct]
+_OBJC_CLASS_$_QuizVC
+_OBJC_IVAR_$_QuizVC.sco
+_OBJC_IVAR_$_QuizVC.questionCounter
+_OBJC_IVAR_$_QuizVC._resultView
+_OBJC_IVAR_$_QuizVC.questionsArray
+_OBJC_IVAR_$_QuizVC._type
+_OBJC_IVAR_$_QuizVC.timer
+_OBJC_IVAR_$_QuizVC.t
+_OBJC_IVAR_$_QuizVC._b1
+_OBJC_IVAR_$_QuizVC.selected
+_OBJC_IVAR_$_QuizVC._b2
+_OBJC_IVAR_$_QuizVC._b3
+_OBJC_IVAR_$_QuizVC._b4
+_OBJC_IVAR_$_QuizVC._questionCount
+_OBJC_IVAR_$_QuizVC._score
+_OBJC_IVAR_$_QuizVC._question
+_OBJC_IVAR_$_QuizVC._resultScoreLabel
+_OBJC_IVAR_$_QuizVC._timeLeft
+_OBJC_METACLASS_$_QuizVC
+/Users/Macbook/Desktop/60 Dollars Apps/MathQuiz/MathQuiz/QuizVC.m
+/Users/Macbook/Desktop/60 Dollars Apps/MathQuiz/MathQuiz/QuizVC.h
+-[AppDelegate application:didFinishLaunchingWithOptions:]
+-[AppDelegate applicationWillResignActive:]
+-[AppDelegate applicationDidEnterBackground:]
+-[AppDelegate applicationWillEnterForeground:]
+-[AppDelegate applicationDidBecomeActive:]
+-[AppDelegate applicationWillTerminate:]
+-[AppDelegate window]
+-[AppDelegate setWindow:]
+-[AppDelegate .cxx_destruct]
+_OBJC_IVAR_$_AppDelegate._window
+l_OBJC_PROTOCOL_$_NSObject
+l_OBJC_LABEL_PROTOCOL_$_NSObject
+l_OBJC_PROTOCOL_$_UIApplicationDelegate
+l_OBJC_LABEL_PROTOCOL_$_UIApplicationDelegate
+_OBJC_METACLASS_$_AppDelegate
+/Users/Macbook/Desktop/60 Dollars Apps/MathQuiz/MathQuiz/AppDelegate.m
+/Users/Macbook/Desktop/60 Dollars Apps/MathQuiz/MathQuiz/AppDelegate.h
